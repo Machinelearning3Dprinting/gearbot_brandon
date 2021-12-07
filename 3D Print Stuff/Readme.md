@@ -1,8 +1,12 @@
+# **STILL A WORK IN PROGRESS**
+
+---
+
 # A Few Things You Should Know
 
 #### **In Folder [_**STL Files**_](https://github.com/Machinelearning3Dprinting/gearbot_brandon/tree/main/3D%20Print%20Stuff/STL%20Files) You will find all the STL files to have a modular case of your own for your Arduino Prortenta H7 with Vision Sheild**
 
-***
+---
 
 #### **In Folder [_**Ultimaker Cura Profiles**_](https://github.com/Machinelearning3Dprinting/gearbot_brandon/tree/main/3D%20Print%20Stuff/Ultimaker%20Cura%20Profiles) You will find the print settings Files that you can then import in to Ultimaker Cura to Make print easy for you** 
 ---
