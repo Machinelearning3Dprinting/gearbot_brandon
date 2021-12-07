@@ -46,4 +46,16 @@ A Couple Of Things Needed To Make The Case Work
 
 .
 
+> **Note:** You Can Not Just Print The STL Files As Is They Are To Exact Dimensions \--- You Need To Change A Few Setting In Your Slicing Software Or Edit The STL Files Either In FUSION 360 Or A Program Of Your Chose 
+> 
+> FUSION 360 Would Be The Easiest To Make The Appropriate Edits As I Have Inculded The \".f3d" File
+
+.
+
+.
+
+.
+
+.
+
 Like what you see feel free to contact me @ NERD.3D.PRINTED@gmail.com
