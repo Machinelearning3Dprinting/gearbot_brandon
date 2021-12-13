@@ -1,14 +1,10 @@
-# **STILL A WORK IN PROGRESS**
-
----
-
 # A Few Things You Should Know
 
 #### **In Folder [_**STL Files**_](https://github.com/Machinelearning3Dprinting/gearbot_brandon/tree/main/3D%20Print%20Stuff/STL%20Files) You will find all the STL files to have a modular case of your own for your Arduino Prortenta H7 with Vision Sheild**
 
 ---
 
-#### **In Folder [_**Ultimaker Cura Profiles**_](https://github.com/Machinelearning3Dprinting/gearbot_brandon/tree/main/3D%20Print%20Stuff/Ultimaker%20Cura%20Profiles) You will find the print settings Files that you can then import in to Ultimaker Cura to Make print easy for you** 
+#### **In Folder [_**Ultimaker Cura Profiles**_](https://github.com/Machinelearning3Dprinting/gearbot_brandon/tree/main/3D%20Print%20Stuff/Ultimaker%20Cura%20Profiles) You will find the print settings Files that you can then import in to Ultimaker Cura to Make printing easy for you** 
 ---
 
 All the STL Files Were Made Using **AUTODESK FUSION 360**
@@ -30,9 +26,9 @@ I Printed Them Using My ANYCUBIC i3 MEGA and My ANYCUBIC MEGA X
 A Couple Of Things Needed To Make The Case Work
   * M2*16 Bolts 
   
-  * M3*6 Bolts
+  * M3*6 Bolts -- Really M3*3
    
-  * 2*6mm Rare Earth Magnets
+  * 2*6mm Rare Earth Magnets or Fridge Mangets Work
 
 .
 
@@ -48,7 +44,7 @@ A Couple Of Things Needed To Make The Case Work
 
 > **Note:** You Can Not Just Print The STL Files As Is They Are To Exact Dimensions \--- You Need To Change A Few Setting In Your Slicing Software Or Edit The STL Files Either In FUSION 360 Or A Program Of Your Chose 
 > 
-> FUSION 360 Would Be The Easiest To Make The Appropriate Edits As I Have Inculded The \".f3d" File
+> FUSION 360 Would Be The Easiest To Make The Appropriate Edits As I Have Inculded The \".f3d" Files
 
 .
 
