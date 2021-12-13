@@ -26,9 +26,9 @@ I Printed Them Using My ANYCUBIC i3 MEGA and My ANYCUBIC MEGA X
 A Couple Of Things Needed To Make The Case Work
   * M2*16 Bolts 
   
-  * M3*6 Bolts -- Really M3*3
+  * M3\*6 Bolts -- Really M3\*3 For The Screen Case
    
-  * 2*6mm Rare Earth Magnets or Fridge Mangets Work
+  * 2\*6mm Rare Earth Magnets or Fridge Mangets Work
 
 .
 
