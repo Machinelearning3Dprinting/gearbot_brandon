@@ -22,28 +22,32 @@ body {
     margin: 25px auto 0px auto;
   }
    
-   a,th {
+   a {
     background-color: Black;
     display: Inline;
   }
 
-  h1
+  h1,div
   {
     background-color: Black;
     display: Table;
     margin: 25px auto 25px 0px;
   }
-
+/*
   table, th, td {
-  border: 1px solid black;
-}
+  border: 1px solid white;
+}*/
+
+table {
+    background-color: Black;
+  }
   
 </style> 
 
  
 <h1 aligh=center style="color:Blue"> MAJOR STUFF UPDATED </h1>
 <h3 align=center style="color:Blue"> UNDER CONSTUCTION</h3>
-<h5 align=center style="color:DarkRed"> Version 0.20.35.66 </h5>
+<h5 align=center style="color:DarkRed"> Version 1.35.55.66 </h5>
 
 <h2 align=center style="color:DarkRed"> Gearbots Machine Learning </h2>
 <hr>
@@ -79,16 +83,18 @@ body {
 
 
 <table align="center">
-  <tr>
-    <th><h1 style="color:DarkRed" align="center">DOWNLOADS</h1></tr>
+  <tr align="center">
+    <th></th>
+    <th align="center" style="color:DarkRed"><font size="+3">DOWNLOADS</font></th>
+    <th></th>
   </tr>
   
 
 
   <tr>
-    <th style="color:Silver" align="center">ESC CODE</th>
-    <th style="color:Silver" align="center">BIG MOTOR DRIVER CODE</th>
-    <th style="color:Silver" align="center">TRAXXAS CODE</th>
+    <th style="color:Silver" align="center">ESC CODE:</th>
+    <th style="color:Silver" align="center">BIG MOTOR DRIVER CODE:</th>
+    <th style="color:Silver" align="center">TRAXXAS CODE:</th>
   </tr>
 
   <tr>
@@ -98,6 +104,25 @@ body {
   </tr>
 
   </table>
+
+  <h1 style="color:DarkRed">NOTES:</h1>
+  <div style="white-space:pre;color:silver;">
+    CLICK ANY OF THE DOWNLOAD LINKS TO START DOWNLOADING
+
+IF USING TRAXXAS EQUIPTMENT WITH <a style="color:Crimson" href="../CODE/TRAXXAS/TRAXXAS.zip" download="TRAXXAS.zip">TRAXXAS Library download</a>
+YOU WILL NEED TO PUT THE INCLUDE FOR THE FILE ABOVE THE LINE <pre> #include &ltML_CAR_ESC.h&gt </pre> FOUND NEAR LINE 100 THIS OVERIDES THE SERVO LIBRARY AND
+ALLOWS FOR THE MICROCONTROLLER TO TALK TO THE TRAXXAS 
+ELECTRONICS 
+
+                                              !!!IMPORTANT!!!
+
+IF THIS IS NOT DONE YOU HAVE THE RISK OF FRYING THE ESC AND 
+SERVO IN THE TRAXXAS VECHILE AS IT WILL TRY TO COMPANSATE 
+FOR THE FREQUENCY DIFFERENCE BUT IT CAN NOT KEEP UP AND 
+WILL OVERHEAT NO DOUBT EVEN WITH THE THERMAL SHUTDOWN
+
+</div>
+    
 
 <li><a style="color:Crimson" href="test.html">...</a>  
 <li><a style="color:Silver" href="test.html">...</a>  
