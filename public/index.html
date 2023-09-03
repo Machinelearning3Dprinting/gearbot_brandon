@@ -47,7 +47,7 @@ table {
  
 <!--<h1 aligh=center style="color:Blue"> MAJOR STUFF UPDATED </h1>
 <h3 align=center style="color:Blue"> UNDER CONSTUCTION</h3>-->
-<h5 align=center style="color:DarkRed"> Version 1.55.65.66 </h5>
+<h5 align=center style="color:DarkRed"> Version 1.60.73.66 </h5>
 
 <h2 align=center style="color:DarkRed"> Gearbots Machine Learning </h2>
 <hr>
@@ -109,19 +109,36 @@ table {
   <div style="white-space:pre;color:silver;">
     CLICK ANY OF THE DOWNLOAD LINKS TO START DOWNLOADING
 
+
+
 IF USING TRAXXAS EQUIPTMENT WITH <a style="color:Crimson" href="../CODE/TRAXXAS/TRAXXAS.zip" download="TRAXXAS.zip">TRAXXAS Library download</a>
-YOU WILL NEED TO PUT THE INCLUDE FOR THE FILE ABOVE THE LINE <pre> #include &ltML_CAR_ESC.h&gt </pre> FOUND NEAR LINE 100. THIS OVERIDES THE SERVO LIBRARY AND
-ALLOWS FOR THE MICROCONTROLLER TO TALK TO THE TRAXXAS 
-ELECTRONICS. 
+
+YOU WILL NEED TO PUT   <pre style="display: inline;"> #define TRAXXAS </pre>  WITH THE OTHER DEFINES 
+
+FOUND IN THE EXAMPLES IN <a style="color:Crimson" href="../CODE/ESC/ML_CAR_ESC.zip" download="ML_CAR_ESC.zip">ML_CAR_ESC Library download</a>.
+
+THIS OVERIDES THE SERVO LIBRARY AND ALLOWS FOR THE 
+
+MICROCONTROLLER TO TALK TO THE TRAXXAS ELECTRONICS. 
+
+ALL THE SERVO COMMANDS ARE THE SAME FOR SIMPLICITY.
+
+
 
 THIS STILL REQUIRES THE <a style="color:Crimson" href="../CODE/ESC/ML_CAR_ESC.zip" download="ML_CAR_ESC.zip">ML_CAR_ESC Library download</a> THE TRAXXAS
+
 FILES ARE ONLY IF YOU ARE USING A TRAXXAS CAR.
+
+
 
                                               !!!IMPORTANT!!!
 
 IF THIS IS NOT DONE YOU HAVE THE RISK OF FRYING THE ESC AND 
+
 SERVO IN THE TRAXXAS VECHILE. IT WILL TRY TO COMPENSATE 
+
 FOR THE FREQUENCY DIFFERENCE BUT IT CAN NOT KEEP UP AND 
+
 WILL OVERHEAT NO DOUBT, EVEN WITH THE THERMAL SHUTDOWN.
 
 </div>
